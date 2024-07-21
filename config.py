@@ -2,7 +2,6 @@ bot_token = "7267991462:AAFfirxSE_zeijvYHYOH-mF9Xq3GOdUhNNQ"
 y_token = "7123901080"
 card = ""
 support = "6919125581"
-support_id = ID # id support
 
 # ~~CLIENT TEXT~~
 
